@@ -66,12 +66,12 @@ This is our second phase. We've already grasped the data, and now it's time to c
 Color pallet: Most of the colors are easy to see for people who have color blindness, especially for those with up to 40% color blindness. 
 To show male and female, I used dark pink and dark blue. I chose dark colors for important things, like red.
 
-<p>
+
 1.	Male and Female credit card usage ratio
 
 This dataset indicates that 26,053 individuals are currently using credit cards. Among these users, 47.5% are male, while 52.5% are female. (I recall, Professor, that you mentioned your dislike for pie or donut charts. However, I believe these are the most suitable visualizations for this kind of data.)
 
- </p>
+ 
 ![image](https://github.com/BASH-EPIC/Tableau_Predictive_model_of_Credit-Card-Spending-Habits-in-India/assets/81670865/a718df4d-ee55-47ac-8ecb-ca046b64bde4)
 
 
