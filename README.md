@@ -11,7 +11,7 @@ Implementing such changes won't be simple, as they require a shift in people's m
 
 Breaking these traditional mindsets is the biggest challenge. If we succeed in addressing this root issue, the government might introduce a social credit system. This will undoubtedly be a complex process, but by educating and encouraging people, we can work towards reducing the prevalence of hidden financial dealings and fostering a more transparent economic environment.
 
-                                                                                                                  Introduction
+                                                                                                         Introduction
 This report delves into the patterns of credit card usage in India, aiming to shed light on how people in the country are using credit cards, what they are spending, and the potential impact on the economy. The unique challenges posed by unreported income and the adoption of credit cards are discussed, along with insights into how credit card usage might shape India's financial landscape.
 
 In these datasets we are having following variables:
@@ -22,7 +22,7 @@ In these datasets we are having following variables:
 •	Gender: Cardholder's gender (male & female)
 •	Amount: Transaction amount
 
-                                                                                                                  Business Question
+                                                                                                      Business Question
 Imagine this situation: I am a Senior Data Analyst with 5 years of experience in the finance department. The government wants to decrease the use of undisclosed money and make transactions clearer. For this goal, they want to examine patterns and trends from previous years. 
 
                                                                                                               Insights and Key Questions
@@ -40,7 +40,7 @@ Percentage of Population Not Using Credit Cards ≈ 100 – 0.00185% ≈ 99.9981
 
 The information tells us that a very small proportion of the population, approximately 0.00185%, is currently using credit cards, which is indeed a very low percentage considering the total population of 1.408 billion. This indicates that the utilization of credit cards is relatively limited within the population.
 
-                                                                                                        Key questions & Answers
+                                                                                                     Key questions & Answers
 1.	Who is Using Credit Cards?
 We discovered that a very tiny portion (about 0.00185%) of India's population presently uses credit cards. This suggests that credit card use isn't common
 
@@ -68,9 +68,10 @@ To show male and female, I used dark pink and dark blue. I chose dark colors for
 
 
 1.	Male and Female credit card usage ratio
+2.	<p>
 This dataset indicates that 26,053 individuals are currently using credit cards. Among these users, 47.5% are male, while 52.5% are female. (I recall, Professor, that you mentioned your dislike for pie or donut charts. However, I believe these are the most suitable visualizations for this kind of data.)
 
- 
+ </p>
 ![image](https://github.com/BASH-EPIC/Tableau_Predictive_model_of_Credit-Card-Spending-Habits-in-India/assets/81670865/a718df4d-ee55-47ac-8ecb-ca046b64bde4)
 
 
