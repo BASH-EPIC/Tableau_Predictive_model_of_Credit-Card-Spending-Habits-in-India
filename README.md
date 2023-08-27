@@ -2,7 +2,7 @@
 
                                                                                                     Credit Card Usage Patterns in India: A Detailed Analysis
 
-Why decided to work with this dataset ?
+                                                                                                    Why decide to work with this dataset?
 I decided to work with this dataset because I have observed that in India, the issue of unreported income (black money) has been increasing over time. Both my parents are government servants in high-ranking positions, and through their experiences, I have come to understand how hidden financial transactions play a significant role in the country's economy. However, my perspective on this changed after I moved to the USA.
 
 India has introduced various measures to combat money laundering and the circulation of black money, including two instances of demonetization in 2016 and 2023. These actions were taken to address concerns about tax evasion and its impact on the central bank's reserves and the well-being of the less privileged. In my opinion, if India aims to adopt this trend, it should focus on promoting the use of credit cards and consider adopting a "social credit system."
@@ -11,7 +11,7 @@ Implementing such changes won't be simple, as they require a shift in people's m
 
 Breaking these traditional mindsets is the biggest challenge. If we succeed in addressing this root issue, the government might introduce a social credit system. This will undoubtedly be a complex process, but by educating and encouraging people, we can work towards reducing the prevalence of hidden financial dealings and fostering a more transparent economic environment.
 
-Introduction:
+                                                                                                                  Introduction
 This report delves into the patterns of credit card usage in India, aiming to shed light on how people in the country are using credit cards, what they are spending, and the potential impact on the economy. The unique challenges posed by unreported income and the adoption of credit cards are discussed, along with insights into how credit card usage might shape India's financial landscape.
 
 In these datasets we are having following variables:
@@ -22,10 +22,10 @@ In these datasets we are having following variables:
 •	Gender: Cardholder's gender (male & female)
 •	Amount: Transaction amount
 
-Business Question:
+                                                                                                                  Business Question
 Imagine this situation: I am a Senior Data Analyst with 5 years of experience in the finance department. The government wants to decrease the use of undisclosed money and make transactions clearer. For this goal, they want to examine patterns and trends from previous years. 
 
-Insights and Key Questions:
+                                                                                                              Insights and Key Questions
 India has currently a 1.408 billion population, upon on that according to the data the average money spent is Rs.156,412. Given the number of people who used credit cards (26,053) and the total amount spent (₹4,074,833,373), we can calculate the average amount spent per person and then analyze the distribution in terms of the percentage of the population that used credit cards and the remaining percentage that did not.
 
 •	Average Amount Spent per Person = Total Amount Spent / Number of People
@@ -40,7 +40,7 @@ Percentage of Population Not Using Credit Cards ≈ 100 – 0.00185% ≈ 99.9981
 
 The information tells us that a very small proportion of the population, approximately 0.00185%, is currently using credit cards, which is indeed a very low percentage considering the total population of 1.408 billion. This indicates that the utilization of credit cards is relatively limited within the population.
 
-Key questions & Answers:
+                                                                                                        Key questions & Answers
 1.	Who is Using Credit Cards?
 We discovered that a very tiny portion (about 0.00185%) of India's population presently uses credit cards. This suggests that credit card use isn't common
 
@@ -132,7 +132,7 @@ The graph suggests that people in the Indian IT sector, especially those working
  ![image](https://github.com/BASH-EPIC/Tableau_Predictive_model_of_Credit-Card-Spending-Habits-in-India/assets/81670865/ee4db044-7829-4170-b3d2-9f9d94b71215)
 
 
-8.	Seeing Trends in Dates, Amounts, and Gender on Tableau
+8.	Seeing Trends in Dates, Amounts, and Gender on Tableau ( Forecasting model)
 This is the bit technical graph. This visualization helps us understand data better. We made a special range from 60% to 80% of the average and drew an average line. We also put in the dates, amounts of money, and genders on Tableau.
 This helps us see if the data points fit in this special range or not. We can see if dates, amounts of money, and genders follow certain patterns or if there are any differences. This can help us find out more about how people spend money, whether there are patterns based on gender, and if the money spent changes over time.
 
